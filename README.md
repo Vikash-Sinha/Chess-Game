@@ -1,5 +1,5 @@
 # Chess-Game
-This Game in Design in Java using swing and awt packages. This Game show the scope of chess piece to help the player for next move.
+This Game is Design in Java using swing and awt packages or more. This Game show the scope of chess piece to help the player for next move.
 
 
 # Package used to run Chess-Game
