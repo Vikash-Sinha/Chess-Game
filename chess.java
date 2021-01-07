@@ -1,4 +1,4 @@
-import java.applet.*;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
